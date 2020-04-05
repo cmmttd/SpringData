@@ -1,3 +1,3 @@
 # SpringData
 
-Try to SpringData
+Try to JPA
